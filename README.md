@@ -11,13 +11,13 @@ Standardized features.
 #### Model Training & Evaluation:
 Trained two SVM classifiers: \
 1.Linear kernel SVM (simple decision boundary) \
-2.RBF kernel SVM (complex non-linear boundary) \
+2.RBF kernel SVM (complex non-linear boundary) 
 
 ####  Decision Boundary Visualization:
 Reduced dimensionality to 2D using PCA  \
 Visualized decision boundaries showing clear separation between classes \
 Linear kernel: Straight boundary \
-RBF kernel: Non-linear, flexible boundary \
+RBF kernel: Non-linear, flexible boundary 
 
 #### Hyperparameter Tuning:
 Performed grid search for RBF kernel parameters: \
